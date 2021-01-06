@@ -1,0 +1,113 @@
+.bronzeGradientColour {
+  background-image: linear-gradient(
+    to bottom, 
+    #cd7f32, 
+    #d08b48, 
+    #d2975d,
+    #d4a272, 
+    #d6ae87
+    );
+  color: white;
+}
+
+.silverGradientColour {
+  background-image: linear-gradient(
+    to bottom, 
+    #504e4e, 
+    #787777, 
+    #a3a2a2, 
+    #d0d0d0,
+    #ffffff);
+    color: white;
+}
+
+.goldGradientColour{
+  background-image: linear-gradient(
+    to bottom,
+    #d6bb00, 
+    #dfc846, 
+    #e8d56f, 
+    #f1e294,
+    #f9efb9
+     );
+    color: white;
+}
+
+.diamondGradientColour{
+  background-image: linear-gradient(
+    to bottom, 
+    #d16ba5, 
+    #c777b9, 
+    #ba83ca, 
+    #aa8fd8,
+    #9a9ae1,
+    #8aa7ec, 
+    #79b3f4, 
+    #69bff8, 
+    #52cffe, 
+    #41dfff, 
+    #46eefa, 
+    #5ffbf1
+    );
+  color: white;
+}
+
+.payrollGradientColour{
+  background-image: linear-gradient(
+    to bottom, 
+    #86181c,
+    #991e1d, 
+    #ac261c, 
+    #bf2f1a, 
+    #d13816, 
+    #db451e, 
+    #e45127, 
+    #ee5c2f, 
+    #f06b44, 
+    #f17958, 
+    #f1876b,
+    #f0957e
+    );
+  color: white;
+}
+
+.headerGradient {
+  background-image: linear-gradient(
+    to bottom,
+    #1e1c19,
+    #24221f,
+    #2b2925,
+    #322f2c,
+    #393632
+  );
+  color: white;
+}
+
+.buttonBackground {
+  background-image: linear-gradient(to bottom, #000000, #000000, #000000, #000000, #000000);
+}
+
+.packageDetails {
+  background-image: radial-gradient(
+    circle,
+    #282626,
+    #3f3c3c,
+    #585353,
+    #726b6b,
+    #8d8485
+  );
+  color: white
+}
+
+.costFont {
+  color: white;
+  font-size: 100px;
+}
+
+.fontSizes {
+  font-size: 20px;
+}
+
+.buttonFont {
+  color: white;
+}

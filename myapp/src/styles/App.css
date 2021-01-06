@@ -1,0 +1,97 @@
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 350px;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
+
+.content {
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  height: 600px;
+}
+
+.backgroundImage {
+  /*background-image: url('../images/pexels-pixabay-53621.jpg'); */ 
+  background-color: #e4314e; /* bisque */
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.backgroundImageAbout {
+  background-image: url('../images/Lrgaboutbook.jpg') ;  
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.backgroundImageServices {
+  background-image: url('../images/pexels-pixabay-53621.jpg') ;  
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.backgroundImagePrices {
+  background-image: url('../images/doots2SML.jpg') ;  
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.pricesBackground {
+  background-color: #e5e4df;
+}
+
+.descriptionBackground {
+  background-color: #e5e4df;
+}
+
+.servicesBackgroundColour {
+  background-color: #e5e4df;
+}
+
+.testimonialsBackground {
+  background-color: #e5e4df;
+}
+
+.primaryBackgroundColour {
+  background-color:  #e5e4df ;
+  padding-bottom: 120px;
+}
+
+.primaryHeaderTextColour {
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font-size: 35px;
+}
+
+.primaryHeaderText {
+  color: black;
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+  font-size: 45px;
+  font-weight: bolder;
+  padding-top: 50px;
+  text-decoration: underline;
+}
